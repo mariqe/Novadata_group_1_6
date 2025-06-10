@@ -7,4 +7,4 @@
 <pre>
 Не было ничего написано в блоке про pull request, как работать в Github в команде.
 </pre>
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.pinimg.com/originals/99/6b/06/996b0697e30344c3ed29a578e3e9121c.png)
